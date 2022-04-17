@@ -1,28 +1,14 @@
-
-██╗░░██╗██╗░██████╗░██╗░░██╗░██╗░░░░░░░██╗░█████╗░██╗░░░██╗
-██║░░██║██║██╔════╝░██║░░██║░██║░░██╗░░██║██╔══██╗╚██╗░██╔╝
-███████║██║██║░░██╗░███████║░╚██╗████╗██╔╝███████║░╚████╔╝░
-██╔══██║██║██║░░╚██╗██╔══██║░░████╔═████║░██╔══██║░░╚██╔╝░░
-██║░░██║██║╚██████╔╝██║░░██║░░╚██╔╝░╚██╔╝░██║░░██║░░░██║░░░
-╚═╝░░╚═╝╚═╝░╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝░░╚═╝░░░╚═╝░░░
-
-█▀█ █▀▀ █▀ ▀█▀   █▀ ▀█▀ █▀█ █▀█
-█▀▄ ██▄ ▄█ ░█░   ▄█ ░█░ █▄█ █▀▀
-
-Enjoy this! To request more contact me at:
-
-- http://wwww.tactical-gaming.net [ discord.gg/tactical ]
-- http://www.facebook.com/tacticalgamingnetwork 
-
 A Taco Truck and Eating Area on Great Ocean Highway
 YMAP + FiveM Ready.
 
-Complete with vehicle spawns! Stop in for a taco or a burger or a hot dog on the go! Out on the dirt bike all day? You must be hungry! 
-Comes with 2 randomly spawning dirt bikes nearby and an ATV as well as a truck.
-Has nice night lighting too!
+Taco Truck, Hot Dog Stand, Burger Stand. Has spawning AI peds occasionally and a few random dirt bikes, an ATV and an off road truck to match the area. Some nice trees for a scenic view along the coastline. A hidden spot in a way behind the sign for police to do radar. Also has barriers for protection. The reflectors on the top of the barriers are bendable like in real life.
 
-Please Note, Tebex takes 15% off of all purchases directly from sellers. :(
+Get map on Tebex - [ https://legacysmaps.tebex.io/category/maps 3 ]
 
+You may also contact me at:
+
+- http://wwww.tactical-gaming.net [ discord.gg/tactical ]
+- http://www.facebook.com/tacticalgamingnetwork 
 
 To Install For FiveM:
 
