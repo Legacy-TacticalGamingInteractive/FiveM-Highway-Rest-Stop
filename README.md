@@ -7,7 +7,7 @@ Get map on Tebex - [ https://legacysmaps.tebex.io/category/maps 3 ]
 
 You may also contact me at:
 
-- http://wwww.tactical-gaming.net [ discord.gg/tactical ]
+- http://wwww.tactical-gaming.net [ https://discord.gg/tactical ]
 - http://www.facebook.com/tacticalgamingnetwork 
 
 To Install For FiveM:
@@ -30,12 +30,4 @@ Legacy, Tactical Gaming Network
 ██║░░░░░██╔══╝░░██║░░╚██╗██╔══██║██║░░██╗░░╚██╔╝░░
 ███████╗███████╗╚██████╔╝██║░░██║╚█████╔╝░░░██║░░░
 ╚══════╝╚══════╝░╚═════╝░╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░
-
-▒█▀▀▀ ░▀░ ▀█░█▀ █▀▀ ▒█▀▄▀█ 
-▒█▀▀▀ ▀█▀ ░█▄█░ █▀▀ ▒█▒█▒█ 
-▒█░░░ ▀▀▀ ░░▀░░ ▀▀▀ ▒█░░▒█
-
-░█▀▀█ ▀▀█▀▀ ─█▀▀█ ░█──░█ 
-░█─▄▄ ─░█── ░█▄▄█ ─░█░█─ 
-░█▄▄█ ─░█── ░█─░█ ──▀▄▀─
 
