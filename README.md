@@ -3,12 +3,11 @@ YMAP + FiveM Ready.
 
 Taco Truck, Hot Dog Stand, Burger Stand. Has spawning AI peds occasionally and a few random dirt bikes, an ATV and an off road truck to match the area. Some nice trees for a scenic view along the coastline. A hidden spot in a way behind the sign for police to do radar. Also has barriers for protection. The reflectors on the top of the barriers are bendable like in real life.
 
-Get map on Tebex - [ https://legacysmaps.tebex.io/category/maps 3 ]
+Or get map on Tebex - [ https://legacysmaps.tebex.io/category/maps 3 ]
 
 You may also contact me at:
 
-- http://wwww.tactical-gaming.net [ https://discord.gg/tactical ]
-- http://www.facebook.com/tacticalgamingnetwork 
+- [ https://discord.gg/eots ] in a #support-ticket ask for Legacy
 
 To Install For FiveM:
 
